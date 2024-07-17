@@ -288,15 +288,4 @@ def name(** name):
 
 
 # c=average(5,6,7,1,8)
-# print(c)
-
-
-
-
-
-
- 
-
-
-
-
+# # print(c)
